@@ -14,6 +14,7 @@
 - [Django](https://github.com/django/django) ★91221 - a high-level Python Web framework that encourages rapid development and clean, pragmatic design. Includes ORM, templating engine, etc.
   - [Awesome Django](https://github.com/wsvincent/awesome-django) ★11267
 - [Emmett](https://github.com/emmett-framework/emmett) ★1237 - a full-stack Python web framework designed with simplicity in mind.
+- [Quadkit](https://github.com/dbtinoy-/quadkit) ★2 - an async-first Python application framework built on DI/IoC and the provider pattern, with typed config, Result error handling, and a swappable async web layer. Docs: https://oridecon.dev/quadkit/
 
 ## Full-stack frameworks, but data-layer agnostic
 
